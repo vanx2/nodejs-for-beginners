@@ -8,50 +8,51 @@ Node.js初心者向け資料
 
 - - -
 # perspective
-Client
- browser
- HTML
-  V8
- ECMASCRIPT
-  Blink/WebKit
-Network
- TCP/IP
- HTTP
- Websocket
-Server
- CPU/Mem/HDD
- OS
-  Linux/FrssBSD/Solaris
- Filesystem
- CLI/GUI
-  Shell
- Midleware
-  WEB
-   Apache
-  Node.js
-  PHP/Ruby/Python/Perl
-Dev
- Design
- Coding
- Editor
-  Scripted
- IDE
-  Cloud9IDE
-  WebStorm
-  Eclipse/Nodecripse/Orionode
-  WebMatrix
- Debug
- TEST
-  Mocha
-  Vows
-  BusterJS
-  testacular
- CI
-  TRVIS CI
-  Jenkins
-Deploy
- Capistrano
-Provisioning
- Vagrant
- Chef
- serverspec
+* Client
+    * browser
+        * HTML/CSS
+            * Blink/WebKit
+        * JS/ECMASCRIPT
+            * V8/SpiderMonkey
+* Network
+    * TCP/IP
+        * HTTP
+        * Websocket
+* Server
+    * HW
+        * CPU/Mem/HDD
+    * OS
+        * Linux/FrssBSD/Solaris
+    * Filesystem
+        * ext3/ext4/xfs/zfs
+    * CLI/GUI
+        * Shell
+    * Midleware
+        * Apache
+        * Node.js
+        * PHP/Ruby/Python/Perl/Java
+* Dev
+    * Design
+    * Coding
+    * Editor
+        * Scripted
+    * IDE
+        * Cloud9IDE
+        * WebStorm
+        * Eclipse/Nodecripse/Orionode
+        * WebMatrix
+    * Debug
+    * TEST
+        * Mocha
+        * Vows
+        * BusterJS
+        * testacular
+    * CI
+        * Jenkins
+        * TRVIS CI
+* Deploy
+    * Capistrano
+* Provisioning
+    * Vagrant
+    * Chef
+    * serverspec
