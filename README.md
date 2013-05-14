@@ -27,9 +27,12 @@ Node.js初心者向け資料
         * ext3/ext4/xfs/zfs
     * CLI/GUI
         * Shell
+            * SSH
     * Midleware
         * Apache
         * Node.js
+            * single thread
+            * non blocking I/O
         * PHP/Ruby/Python/Perl/Java
 * Dev
     * Design
