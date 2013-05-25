@@ -34,38 +34,38 @@ Node.js初心者向け資料
   * Midleware
     * Apache
     * Node.js
-      * single thread
-      * non blocking I/O
+        * single thread
+        * non blocking I/O
     * PHP/Ruby/Python/Perl/Java
 * Dev
   * Design/Coding
-    * event
-    * stream2
-    * callback/promise
-    * mod
-      * async
-      * ...............
+      * event
+      * stream2
+      * callback/promise
+      * mod
+          * async
+          * ...............
   * Editor
      * Scripted
   * IDE
-    * Cloud9IDE
-    * WebStorm
-    * Runnable
-    * Eclipse/Nodecripse/Orionode
+     * Cloud9IDE
+     * WebStorm
+     * Runnable
+     * Eclipse/Nodecripse/Orionode
       * WebMatrix
   * Debug
   * TEST
-    * Mocha
-    * Vows
-    * BusterJS
-    * testacular
+     * Mocha
+     * Vows
+     * BusterJS
+     * testacular
   * CI
-    * Jenkins
-    * TRVIS CI
+     * Jenkins
+     * TRVIS CI
   * VCS
-    * git
+     * git
   * Repository
-    * github
+     * github
 * Deploy
   * Capistrano
 * ServerSetup
