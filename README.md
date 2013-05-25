@@ -14,9 +14,9 @@ Node.js初心者向け資料
 * Network
   * OSI
     * TCP/IP
-      * RFC
-        * HTTP
-        * Websocket
+  * RFC
+    * HTTP
+    * Websocket
 * Server
   * HW
     * CPU
@@ -30,7 +30,7 @@ Node.js初心者向け資料
     * ext3/ext4/xfs/zfs
   * CLI/GUI
     * Shell
-      * SSH
+      * sh/csh/ksh/bash/zsh
   * Midleware
     * Apache
     * Node.js
