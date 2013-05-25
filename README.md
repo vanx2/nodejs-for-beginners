@@ -46,7 +46,7 @@ Node.js初心者向け資料
       * async
       * ...............
   * Editor
-    * Scripted
+     * Scripted
   * IDE
     * Cloud9IDE
     * WebStorm
